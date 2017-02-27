@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\marc\documents\visual studio 2015\projects\ex_point_day4\ex_point_day4\main.cpp(23): warning C4101: 'x': unreferenced local variable
+  Ex_point_day4.vcxproj -> C:\Users\Marc\documents\visual studio 2015\Projects\Ex_point_day4\Debug\Ex_point_day4.exe
+  Ex_point_day4.vcxproj -> C:\Users\Marc\documents\visual studio 2015\Projects\Ex_point_day4\Debug\Ex_point_day4.pdb (Partial PDB)
